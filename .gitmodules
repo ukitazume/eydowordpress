@@ -1,0 +1,6 @@
+[submodule "eydophp"]
+	path = eydophp
+	url = git@github.com:ukitazume/eydophp.git
+[submodule "eywordpress"]
+	path = eywordpress
+	url = git@github.com:ukitazume/eywordpress.git
